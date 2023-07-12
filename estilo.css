@@ -1,0 +1,27 @@
+body {
+    background-color:white;
+    padding: 100px;
+    margin: 100px;
+
+}
+.img-denise {
+    width: 200px;
+    height: 288px;
+    float: right;
+    transform: rotate 0px;
+ }
+ h1 {text-align: center;
+    background-color:beige;
+    padding: 5px;
+    margin: 1px;
+    
+}
+p {text-align: left; 
+
+}
+h2 {text-align: left;
+    background-color:beige;
+    text-decoration:underline;
+
+}
+
